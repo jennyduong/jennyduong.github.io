@@ -1,5 +1,3 @@
-# jennyduong.github.io
+comp20 assignment 1
 
-Hello
-Hello
-Hello
+personal website
