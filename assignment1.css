@@ -1,0 +1,33 @@
+body {
+    font-family: "Courier New", Courier, monospace;
+    background-color: #C1CDCD;
+	color: #3678F1;
+
+}
+
+.index {
+    text-align: center;
+}
+
+.haiku {
+	text-align: center;
+}
+
+.name {
+    text-align: center;
+    font-weight: bold;
+    color: #0967A9;
+}
+
+.education {
+	text-align: center;
+}
+
+.section {
+    font-weight: bold;
+    color: #0967A9;
+}
+
+.year {
+    font-style: italic;
+}
